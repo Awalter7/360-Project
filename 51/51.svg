@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_51{
+fill: #D2EAF1;
+}
+.g1_51{
+fill: #A5D5E2;
+}
+.g2_51{
+fill: none;
+stroke: #78C0D4;
+stroke-width: 1.527;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<path fill-rule="evenodd" d="M101.7,370H815.9V69.4H101.7V370Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,101.1H815.9V69.4H101.7v31.7Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,368.4H815.9V101.1H101.7V368.4Z" class="g1_51"/>
+<path fill-rule="evenodd" d="M101.7,711.9H815.9V409.6H101.7V711.9Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,441.3H815.9V409.6H101.7v31.7Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,710.3H815.9V441.4H101.7V710.3Z" class="g1_51"/>
+<path fill-rule="evenodd" d="M101.7,1009.8H815.9V751.4H101.7v258.4Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,783.1H815.9V751.4H101.7v31.7Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,1008.3H815.9V783.1H101.7v225.2Z" class="g1_51"/>
+<path fill-rule="evenodd" d="M101.7,1082.7H815.9v-33.3H101.7v33.3Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,1081.1H815.9v-31.7H101.7v31.7Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,101.1H815.9V69.4H101.7v31.7Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,368.4H815.9V101.1H101.7V368.4Z" class="g1_51"/>
+<path fill-rule="evenodd" d="M101.7,441.3H815.9V409.6H101.7v31.7Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,710.3H815.9V441.4H101.7V710.3Z" class="g1_51"/>
+<path fill-rule="evenodd" d="M101.7,783.1H815.9V751.4H101.7v31.7Z" class="g0_51"/>
+<path fill-rule="evenodd" d="M101.7,1008.3H815.9V783.1H101.7v225.2Z" class="g1_51"/>
+<path fill-rule="evenodd" d="M101.7,1081.1H815.9v-31.7H101.7v31.7Z" class="g0_51"/>
+<path d="M101,70.1H816.7M101,101.9H816.7M101,369.3H816.7M101.7,69.4V370M816,69.4V370M101,410.4H816.7M101,442.1H816.7M101,711.2H816.7M101.7,409.6V711.9M816,409.6V711.9M101,752.1H816.7M101,783.9H816.7M101,1009.1H816.7M101.7,751.4v258.5M816,751.4v258.5m-715,40.3H816.7M101,1082H816.7m-715,-32.6v33.3M816,1049.4v33.3" class="g2_51"/>
+</svg>

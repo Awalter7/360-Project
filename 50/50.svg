@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_50{
+fill: #D2EAF1;
+}
+.g1_50{
+fill: #A5D5E2;
+}
+.g2_50{
+fill: none;
+stroke: #78C0D4;
+stroke-width: 1.527;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<path fill-rule="evenodd" d="M101.7,400.4H815.9V108.9H101.7V400.4Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,140.6H815.9V108.9H101.7v31.7Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,398.8H815.9V140.7H101.7V398.8Z" class="g1_50"/>
+<path fill-rule="evenodd" d="M101.7,734.6H815.9V439.8H101.7V734.6Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,471.5H815.9V439.8H101.7v31.7Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,733.1H815.9V471.6H101.7V733.1Z" class="g1_50"/>
+<path fill-rule="evenodd" d="M101.7,1034.4H815.9V774.3H101.7v260.1Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,806H815.9V774.3H101.7V806Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,1032.9H815.9V806.1H101.7v226.8Z" class="g1_50"/>
+<path fill-rule="evenodd" d="M101.7,140.6H815.9V108.9H101.7v31.7Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,398.8H815.9V140.7H101.7V398.8Z" class="g1_50"/>
+<path fill-rule="evenodd" d="M101.7,471.5H815.9V439.8H101.7v31.7Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,733.1H815.9V471.6H101.7V733.1Z" class="g1_50"/>
+<path fill-rule="evenodd" d="M101.7,806H815.9V774.3H101.7V806Z" class="g0_50"/>
+<path fill-rule="evenodd" d="M101.7,1032.9H815.9V806.1H101.7v226.8Z" class="g1_50"/>
+<path d="M101,109.7H816.7M101,141.5H816.7M101,399.7H816.7M101.7,108.9V400.4M816,108.9V400.4M101,440.6H816.7M101,472.4H816.7M101,733.9H816.7M101.7,439.8V734.7M816,439.8V734.7M101,775H816.7M101,806.8H816.7M101,1033.7H816.7M101.7,774.3v260.2M816,774.3v260.2" class="g2_50"/>
+</svg>
